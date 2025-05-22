@@ -1,4 +1,5 @@
-## Hi there 👋
+## Murgn ⭐
+I make games sometimes on [murgn.itch.io](https://murgn.itch.io/)
 
 <!--
 **Murgn/murgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
